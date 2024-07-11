@@ -61,9 +61,9 @@ Explore units sold by individual state within each region using a tree map for a
     3. The dashboard will launch in your web browser.
 ```
     
-## Demo
+## Dashboard Working
 
-[![Watch video here](https://img.youtube.com/vi/<tY7giXeRafM>/maxresdefault.jpg)](https://www.youtube.com/watch?v=<tY7giXeRafM>)
+![YouTube Adidas Dashboard](https://youtu.be/tY7giXeRafM?si=XTVf3xUOfAnqJMgK)
 
 ## Note
 
