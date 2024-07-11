@@ -3,9 +3,9 @@
 
 This dashboard provides insights into Adidas's sales performance across various regions and retailers.
 
-Dashboard Link: [Streamlit Cloud](https://dashboard4adidas.streamlit.app/)    
+:computer: Dashboard Link: [Streamlit Cloud](https://dashboard4adidas.streamlit.app/)    
 
-Dashboard Tutorial on YouTube: [Dashboard walkthrough](https://youtu.be/tY7giXeRafM?si=K9B-eQZ-WISpatWz)   
+:arrow_forward: Dashboard Tutorial on YouTube: [Dashboard walkthrough](https://youtu.be/tY7giXeRafM?si=K9B-eQZ-WISpatWz)   
 
 
 
