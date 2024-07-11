@@ -62,8 +62,7 @@ Explore units sold by individual state within each region using a tree map for a
     
 ## Demo
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=PLZw6hZ_AetbNB75YiqjV2KjlyZJGQiz38)
-
+[![Watch video here](https://img.youtube.com/vi/<PLZw6hZ_AetbNB75YiqjV2KjlyZJGQiz38&index=1>/maxresdefault.jpg)](https://www.youtube.com/watch?v=<PLZw6hZ_AetbNB75YiqjV2KjlyZJGQiz38&index=1>)
 
 ## Note
 
