@@ -9,9 +9,7 @@ This dashboard provides insights into Adidas's sales performance across various 
 
 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-[![MIT License](https://img.shields.io/pypi/pyversions/streamlit)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) [![MIT License](https://img.shields.io/pypi/pyversions/streamlit)](https://choosealicense.com/licenses/mit/)
 
 ## Dashboard Demo
 
