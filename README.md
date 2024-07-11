@@ -63,7 +63,7 @@ Explore units sold by individual state within each region using a tree map for a
     
 ## Dashboard Working
 
-![YouTube Adidas Dashboard](https://youtu.be/tY7giXeRafM?si=XTVf3xUOfAnqJMgK)
+[![Adidas Dashboard Tutorial](https://img.youtube.com/vi/tY7giXeRafM/Adidas_Sales_Dashboard_Thumbnail.png)](https://www.youtube.com/watch?v=tY7giXeRafM)
 
 ## Note
 
