@@ -3,8 +3,8 @@
 
 This dashboard provides insights into Adidas's sales performance across various regions and retailers.
 
-Check Dashboard: (![Static Badge](https://img.shields.io/badge/Tutorial_YouTube-red?style=flat&logo=youtube&logoColor=red&labelColor=white)(https://dashboard4adidas.streamlit.app/))
-Tutorial: ![Dashboard Working](https://youtu.be/tY7giXeRafM?si=K9B-eQZ-WISpatWz)
+![Static Badge](https://img.shields.io/badge/Tutorial_YouTube-red?style=flat&logo=youtube&logoColor=red&labelColor=white) [Dashboard walkthrough](https://youtu.be/tY7giXeRafM?si=K9B-eQZ-WISpatWz)
+Tutorial: ![Dashboard Working]
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
