@@ -3,7 +3,8 @@
 
 This dashboard provides insights into Adidas's sales performance across various regions and retailers.
 
-Add Demo link
+Check Dashboard: ![Adidas Dashboard](https://dashboard4adidas.streamlit.app/)
+Tutorial: ![Dashboard Working](https://youtu.be/tY7giXeRafM?si=K9B-eQZ-WISpatWz)
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
@@ -61,9 +62,6 @@ Explore units sold by individual state within each region using a tree map for a
     3. The dashboard will launch in your web browser.
 ```
     
-## Dashboard Working
-
-[![Adidas Dashboard Tutorial](adidas_dashboard_demo.png)](https://www.youtube.com/watch?v=tY7giXeRafM)
 
 ## Note
 
