@@ -158,4 +158,4 @@ html_footer = """
     <a id="mlh-trust-badge" style="display:block;max-width:100px;min-width:60px;" href="https://static.mlh.io/brand-assets/logo/official/mlh-logo-color.svg" target="_blank"><img src="https://static.mlh.io/brand-assets/logo/official/mlh-logo-color.svg" alt="Major League Hacking 2024 Hackathon Season" style="width:100%"></a>
     </center>
     """
-st.markdown(html_footer, unsafe_allow_html=True)
+st.markdown(html_footer,unsafe_allow_html=True)
