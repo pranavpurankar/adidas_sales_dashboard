@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 df = pd.read_excel("AdidasSalesdata.xlsx")
 st.set_page_config(layout="wide")
 st.markdown('<style>div.block-container{padding-top:2rem;}</style>',unsafe_allow_html=True)
-image = Image.open('adidas-logo-png.png')
+image = Image.open('adidas-logo.png')
 
 
 col1, col2 = st.columns([0.1,0.9])
