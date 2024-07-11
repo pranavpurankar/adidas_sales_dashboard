@@ -10,11 +10,9 @@ Add Demo link
 
 [![MIT License](https://img.shields.io/pypi/pyversions/streamlit)](https://choosealicense.com/licenses/mit/)
 
-## Dashboard
+## Dashboard Demo
 
-![Demo](![adidas_sales_dashboard-ezgif com-speed](https://github.com/pranavpurankar/adidas_sales_dashboard/assets/61117607/b84617ce-6b62-45ec-81c5-5920d539d118)
-)
-
+![adidas_sales_dashboard-ezgif com-speed](https://github.com/pranavpurankar/adidas_sales_dashboard/assets/61117607/b84617ce-6b62-45ec-81c5-5920d539d118)
 
 ## Functionality
 
