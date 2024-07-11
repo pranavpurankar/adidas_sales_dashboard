@@ -12,7 +12,8 @@ Add Demo link
 
 ## Dashboard Demo
 
-![adidas_sales_dashboard-ezgif com-speed](https://github.com/pranavpurankar/adidas_sales_dashboard/assets/61117607/b84617ce-6b62-45ec-81c5-5920d539d118)
+![adidas_sales_dashboard-demo](https://github.com/pranavpurankar/adidas_sales_dashboard/assets/61117607/fe87280a-96fe-49cb-9566-1adb8bad0fd2)
+
 
 ## Functionality
 
